@@ -1,0 +1,8 @@
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb

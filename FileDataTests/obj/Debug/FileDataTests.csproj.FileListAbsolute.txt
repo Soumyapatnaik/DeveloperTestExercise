@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\FileDataTests.dll
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\FileDataTests.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\FileData.exe
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\ThirdPartyTools.dll
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\FileData.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\ThirdPartyTools.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\obj\Debug\FileDataTests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\obj\Debug\FileDataTests.dll
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\obj\Debug\FileDataTests.pdb
+C:\Users\dell\Desktop\DeveloperTestExercise-master\FileDataTests\bin\Debug\FileDataTests.dll.config
